@@ -1,0 +1,12 @@
+[
+    {"nama": "1. Temmu", "deskripsi": "Nemenin tidur", "imageId": "kucing1"},
+    {"nama": "2. Kucing Yana", "deskripsi": "Ngelamun", "imageId": "kucing2"},
+    {"nama": "3. Bandot", "deskripsi": "Lagi ngeliatin", "imageId": "kucing3"},
+    {"nama": "4. Jerry", "deskripsi": "Muka serius", "imageId": "kucing4"},
+    {"nama": "5. Kucing Rumah", "deskripsi": "Malu liat kamera", "imageId": "kucing5"},
+    {"nama": "6. Chiwy", "deskripsi": "Paling cakep", "imageId": "kucing6"},
+    {"nama": "7. Kucing Malu", "deskripsi": "Lagi tidur siang", "imageId": "kucing7"},
+    {"nama": "8. Milly", "deskripsi": "Senyum terus", "imageId": "kucing8"},
+    {"nama": "9. Chiko", "deskripsi": "Suka rebahan", "imageId": "kucing9"},
+    {"nama": "10. Timmy", "deskripsi": "Lagi manja", "imageId": "kucing10"}
+]
